@@ -36,7 +36,7 @@ Completed the Data transformation in Power Query and the dataset loaded into Mic
 Call Centre Trends dataset is give table named:
 
 - `Call Center trends dataset` which has `10 columns and 5000 rows` of observation
-
+ 
 Data Cleaning for the dataset was done in the power query editor as follows:
 
 - Removed Unnecessary columns
